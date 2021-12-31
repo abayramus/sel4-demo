@@ -41,7 +41,7 @@
       <recent name="$PROJECT_DIR$/drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ActionsClass.actions1">
+  <component name="RunManager" selected="JUnit.NewTabs">
     <configuration name="ActionsClass.actions1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Selenium4-Demo" />
       <extension name="coverage">
@@ -54,6 +54,52 @@
       <option name="MAIN_CLASS_NAME" value="sel4newfeatures.ActionsClass" />
       <option name="METHOD_NAME" value="actions1" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewTabs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Selenium4-Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sel4newfeatures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sel4newfeatures" />
+      <option name="MAIN_CLASS_NAME" value="sel4newfeatures.NewTabs" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewTabs.newTabsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Selenium4-Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sel4newfeatures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sel4newfeatures" />
+      <option name="MAIN_CLASS_NAME" value="sel4newfeatures.NewTabs" />
+      <option name="METHOD_NAME" value="newTabsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewWindows" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Selenium4-Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sel4newfeatures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sel4newfeatures" />
+      <option name="MAIN_CLASS_NAME" value="sel4newfeatures.NewWindows" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -74,61 +120,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Positions.positionsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Selenium4-Demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sel4newfeatures.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="sel4newfeatures" />
-      <option name="MAIN_CLASS_NAME" value="sel4newfeatures.Positions" />
-      <option name="METHOD_NAME" value="positionsTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RelativeLocatorsClass.relativeLocatorsTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Selenium4-Demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sel4newfeatures.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="sel4newfeatures" />
-      <option name="MAIN_CLASS_NAME" value="sel4newfeatures.RelativeLocatorsClass" />
-      <option name="METHOD_NAME" value="relativeLocatorsTest1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RelativeLocatorsClass.relativeLocatorsTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Selenium4-Demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sel4newfeatures.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="sel4newfeatures" />
-      <option name="MAIN_CLASS_NAME" value="sel4newfeatures.RelativeLocatorsClass" />
-      <option name="METHOD_NAME" value="relativeLocatorsTest2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ActionsClass.actions1" />
-        <item itemvalue="JUnit.RelativeLocatorsClass.relativeLocatorsTest2" />
-        <item itemvalue="JUnit.RelativeLocatorsClass.relativeLocatorsTest1" />
-        <item itemvalue="JUnit.Positions.positionsTest" />
+        <item itemvalue="JUnit.NewTabs" />
+        <item itemvalue="JUnit.NewTabs.newTabsTest" />
         <item itemvalue="JUnit.NewWindows.newWindowsTest" />
+        <item itemvalue="JUnit.NewWindows" />
+        <item itemvalue="JUnit.ActionsClass.actions1" />
       </list>
     </recent_temporary>
   </component>
@@ -144,8 +142,8 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="2508" height="17" key="GridCell.Tab.0.bottom" timestamp="1640891473689">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state width="2288" height="127" key="GridCell.Tab.0.bottom" timestamp="1640965663315">
+      <screen x="69" y="25" width="2491" height="1415" />
     </state>
     <state width="2508" height="17" key="GridCell.Tab.0.bottom/2560.25.1920.1055/0.0.2560.1440@0.0.2560.1440" timestamp="1640891473689" />
     <state width="1548" height="270" key="GridCell.Tab.0.bottom/2560.25.1920.1055/58.25.2502.1415@2560.25.1920.1055" timestamp="1640885977258" />
@@ -156,9 +154,9 @@
     <state width="1548" height="33" key="GridCell.Tab.0.bottom/2560.25.1920.1055/67.25.2493.1415@2560.25.1920.1055" timestamp="1640885317807" />
     <state width="1548" height="342" key="GridCell.Tab.0.bottom/2560.25.1920.1055/67.25.2493.1415@67.25.2493.1415" timestamp="1640882569899" />
     <state width="1041" height="270" key="GridCell.Tab.0.bottom/2560.25.1920.1055/69.25.2491.1415@2560.25.1920.1055" timestamp="1640888939564" />
-    <state width="1961" height="17" key="GridCell.Tab.0.bottom/2560.25.1920.1055/69.25.2491.1415@69.25.2491.1415" timestamp="1640891329959" />
-    <state width="2508" height="17" key="GridCell.Tab.0.center" timestamp="1640891473689">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state width="2288" height="127" key="GridCell.Tab.0.bottom/2560.25.1920.1055/69.25.2491.1415@69.25.2491.1415" timestamp="1640965663315" />
+    <state width="2288" height="127" key="GridCell.Tab.0.center" timestamp="1640965663314">
+      <screen x="69" y="25" width="2491" height="1415" />
     </state>
     <state width="2508" height="17" key="GridCell.Tab.0.center/2560.25.1920.1055/0.0.2560.1440@0.0.2560.1440" timestamp="1640891473689" />
     <state width="1548" height="270" key="GridCell.Tab.0.center/2560.25.1920.1055/58.25.2502.1415@2560.25.1920.1055" timestamp="1640885977257" />
@@ -169,9 +167,9 @@
     <state width="1548" height="33" key="GridCell.Tab.0.center/2560.25.1920.1055/67.25.2493.1415@2560.25.1920.1055" timestamp="1640885317806" />
     <state width="1548" height="342" key="GridCell.Tab.0.center/2560.25.1920.1055/67.25.2493.1415@67.25.2493.1415" timestamp="1640882569898" />
     <state width="1041" height="270" key="GridCell.Tab.0.center/2560.25.1920.1055/69.25.2491.1415@2560.25.1920.1055" timestamp="1640888939563" />
-    <state width="1961" height="17" key="GridCell.Tab.0.center/2560.25.1920.1055/69.25.2491.1415@69.25.2491.1415" timestamp="1640891329958" />
-    <state width="2508" height="17" key="GridCell.Tab.0.left" timestamp="1640891473688">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state width="2288" height="127" key="GridCell.Tab.0.center/2560.25.1920.1055/69.25.2491.1415@69.25.2491.1415" timestamp="1640965663314" />
+    <state width="2288" height="127" key="GridCell.Tab.0.left" timestamp="1640965663314">
+      <screen x="69" y="25" width="2491" height="1415" />
     </state>
     <state width="2508" height="17" key="GridCell.Tab.0.left/2560.25.1920.1055/0.0.2560.1440@0.0.2560.1440" timestamp="1640891473688" />
     <state width="1548" height="270" key="GridCell.Tab.0.left/2560.25.1920.1055/58.25.2502.1415@2560.25.1920.1055" timestamp="1640885977257" />
@@ -182,9 +180,9 @@
     <state width="1548" height="33" key="GridCell.Tab.0.left/2560.25.1920.1055/67.25.2493.1415@2560.25.1920.1055" timestamp="1640885317806" />
     <state width="1548" height="342" key="GridCell.Tab.0.left/2560.25.1920.1055/67.25.2493.1415@67.25.2493.1415" timestamp="1640882569897" />
     <state width="1041" height="270" key="GridCell.Tab.0.left/2560.25.1920.1055/69.25.2491.1415@2560.25.1920.1055" timestamp="1640888939560" />
-    <state width="1961" height="17" key="GridCell.Tab.0.left/2560.25.1920.1055/69.25.2491.1415@69.25.2491.1415" timestamp="1640891329957" />
-    <state width="2508" height="17" key="GridCell.Tab.0.right" timestamp="1640891473689">
-      <screen x="0" y="0" width="2560" height="1440" />
+    <state width="2288" height="127" key="GridCell.Tab.0.left/2560.25.1920.1055/69.25.2491.1415@69.25.2491.1415" timestamp="1640965663314" />
+    <state width="2288" height="127" key="GridCell.Tab.0.right" timestamp="1640965663315">
+      <screen x="69" y="25" width="2491" height="1415" />
     </state>
     <state width="2508" height="17" key="GridCell.Tab.0.right/2560.25.1920.1055/0.0.2560.1440@0.0.2560.1440" timestamp="1640891473689" />
     <state width="1548" height="270" key="GridCell.Tab.0.right/2560.25.1920.1055/58.25.2502.1415@2560.25.1920.1055" timestamp="1640885977257" />
@@ -195,7 +193,7 @@
     <state width="1548" height="33" key="GridCell.Tab.0.right/2560.25.1920.1055/67.25.2493.1415@2560.25.1920.1055" timestamp="1640885317806" />
     <state width="1548" height="342" key="GridCell.Tab.0.right/2560.25.1920.1055/67.25.2493.1415@67.25.2493.1415" timestamp="1640882569898" />
     <state width="1041" height="270" key="GridCell.Tab.0.right/2560.25.1920.1055/69.25.2491.1415@2560.25.1920.1055" timestamp="1640888939563" />
-    <state width="1961" height="17" key="GridCell.Tab.0.right/2560.25.1920.1055/69.25.2491.1415@69.25.2491.1415" timestamp="1640891329958" />
+    <state width="2288" height="127" key="GridCell.Tab.0.right/2560.25.1920.1055/69.25.2491.1415@69.25.2491.1415" timestamp="1640965663315" />
     <state x="0" y="0" width="1220" height="1055" key="SettingsEditor" timestamp="1640888973470">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
